@@ -1,0 +1,7 @@
+C:\Users\G ragul\Desktop\Passport\Main\Main\bin\Debug\Main.exe.config
+C:\Users\G ragul\Desktop\Passport\Main\Main\bin\Debug\Main.exe
+C:\Users\G ragul\Desktop\Passport\Main\Main\bin\Debug\Main.pdb
+C:\Users\G ragul\Desktop\Passport\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\G ragul\Desktop\Passport\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\G ragul\Desktop\Passport\Main\Main\obj\Debug\Main.exe
+C:\Users\G ragul\Desktop\Passport\Main\Main\obj\Debug\Main.pdb
